@@ -14,7 +14,6 @@ st.set_page_config(layout='wide', initial_sidebar_state='expanded')
 st.title("📊 Dashboard Equipo 23 🛒")
 st.markdown("""
 Supermarket Sales 👋
-* **Luis Ignacio Chacón Cabrera**
             """)
 
 # Configuración simple para los gráficos
