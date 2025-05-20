@@ -1,0 +1,6 @@
+calendar
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
